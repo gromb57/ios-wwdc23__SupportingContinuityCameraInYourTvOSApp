@@ -1,5 +1,7 @@
 # Supporting Continuity Camera in your tvOS app
 
+[Source](https://developer.apple.com/documentation/avkit/supporting_continuity_camera_in_your_tvos_app)
+
 Capture high-quality photos, video, and audio in your Apple TV app by connecting
 an iPhone or iPad as a continuity device.
 
